@@ -1,9 +1,14 @@
-body{background-color:#00FFCC}
-#header{background-color:#009999 ; width:100%;
-	min-height:100px}
-#left_column{background-color:#00CC99; width:33%;
-	min-height:400px;float:left}
-#main_content{background-color:#00FF99; width:67%;
-	min-height:400px; float:left}
-#footer{background-color:#009999; width:100%;
+body{background-image:url('http://farm8.staticflickr.com/7400/9353968578_bb998b17c1.jpg');
+background-color:#00FFCC}
+#header{background-color:#9900CC ; width:100%;
+	min-height:100px;
+	opacity:0.55;
+	  filter:alpha(opacity=55)}
+#left_column{background-color:#9933FF; width:5%;
+	min-height:100px;float:left}
+#main_content{background-color:#9933FF; width:67%;
+	min-height:400px; float:left;
+	opacity:0.95;
+	  filter:alpha(opacity=95)}
+#footer{ width:100%;
 	min-height:100px; clear:both}
