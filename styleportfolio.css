@@ -1,0 +1,15 @@
+body{background-image:url('http://farm4.staticflickr.com/3773/9353968568_0d607eaa71.jpg');
+background-color:#00FFCC}
+#header{background-color:#CC9900 ; width:100%;
+	min-height:100px;
+	opacity:0.55;
+	  filter:alpha(opacity=55);}
+#left_column{background-color:#996600; width:5%;
+	min-height:100px;float:left}
+#main_content{background-color:#996600; width:67%;
+	min-height:400px; float:left;
+	opacity:0.95;
+	  filter:alpha(opacity=95)}
+#footer{background-color:#CC9900; width:100%;
+	opacity:0.55;
+	  filter:alpha(opacity=55);}
