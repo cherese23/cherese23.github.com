@@ -1,0 +1,17 @@
+body{background-image:url('http://farm4.staticflickr.com/3794/9359919128_c8fef1e3f0.jpg');
+background-color:#00FFCC}
+#header{background-color:#00CCFF ; width:100%;
+	min-height:100px;
+	opacity:0.55;
+	  filter:alpha(opacity=55)}
+#left_column{background-color:#00FFFF; width:5%;
+	min-height:100px;float:left;}
+#main_content{background-color:#00FFFF; width:67%;
+	min-height:400px; float:left;
+	opacity:0.95;
+	  filter:alpha(opacity=95)}
+#footer{background-color:#00CCFF; width:100%;
+	min-height:100px; clear:both;
+	opacity:0.55;
+	  filter:alpha(opacity=55)}
+	
